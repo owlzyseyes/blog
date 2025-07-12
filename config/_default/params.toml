@@ -1,8 +1,8 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "I'm Brian Mubia"
+author = "Brian Mubia"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "Call me Hootist."
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -61,17 +61,17 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 [[socialIcons]]
 icon = "fa-brands fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://de.linkedin.com/brian1001"
 
 [[socialIcons]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/owlzyseyes"
 
 [[socialIcons]]
 icon = "fa-brands fa-instagram"
 title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/whatnotbrian"
 
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
